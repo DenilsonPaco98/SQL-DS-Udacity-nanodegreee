@@ -19,3 +19,11 @@ Abaixo emcontrase a solução do problema e a Query usada, é possivel encontra 
 <img src="https://user-images.githubusercontent.com/54716441/216497051-700628e7-aa1b-420a-a6e1-d3c81c24b34b.png"/>
 </div>
 
+É dado as anotações sobre as linhas pois resolvo os exercicio e com o resultado verifico depois se o resultado bateu com o esperado no curso.
+Por isso a contagem de linhas obtidas em cada problema.
+
+<div align"center">
+<img src="https://user-images.githubusercontent.com/54716441/216515063-2d48f84e-303c-4986-970d-adf9f8b9c4ab.png"/>
+</div>
+
+# Chapter 2 - Aggregations
